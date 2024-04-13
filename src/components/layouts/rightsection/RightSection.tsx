@@ -1,5 +1,3 @@
-import React from 'react'
-
 const rightSectionStyles = { 
   width: '80%', 
   height: '95vh', 
