@@ -1,4 +1,4 @@
-import menu from '../../../../assets/menu.svg';
+import menu from '@assets/menu.svg';
 
 const headerStyles = { 
   color: '#fff', 

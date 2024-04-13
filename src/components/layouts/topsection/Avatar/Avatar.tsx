@@ -1,4 +1,4 @@
-import avatar from '../../../../assets/avatarw.svg';
+import avatar from '@assets/avatarw.svg';
 
 export const Avatar = () => {
   return (
